@@ -1,9 +1,9 @@
 # golali  
 ### Persian (Jalali / Shamsi / Solar Hijri) Calendar Library for Go
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/yourusername/golali.svg)](https://pkg.go.dev/github.com/yourusername/golali)
-[![Go Report Card](https://goreportcard.com/badge/github.com/yourusername/golali)](https://goreportcard.com/report/github.com/yourusername/golali)
-[![Tests](https://github.com/yourusername/golali/actions/workflows/go.yml/badge.svg)](https://github.com/yourusername/golali/actions)
+[![Go Reference](https://pkg.go.dev/badge/github.com/bijanghanei/golali.svg)](https://pkg.go.dev/github.com/bijanghanei/golali)
+[![Go Report Card](https://goreportcard.com/badge/github.com/bijanghanei/golali)](https://goreportcard.com/report/github.com/bijanghanei/golali)
+[![Tests](https://github.com/bijanghanei/golali/actions/workflows/go.yml/badge.svg)](https://github.com/bijanghanei/golali/actions)
 
 **golali** is a comprehensive, production-ready Go library for working with the **Persian (Jalali / Shamsi / Solar Hijri) calendar** — the official calendar of Iran and Afghanistan.
 
@@ -36,7 +36,7 @@ The library provides accurate **bidirectional conversion** between Jalali and Gr
 ## Installation
 
 ```bash
-go get github.com/yourusername/golali
+go get github.com/bijanghanei/golali
 ```
 
 ---
